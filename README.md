@@ -3,3 +3,4 @@ Studying numpy etc... refered to [youtube A to Z programming](https://www.youtub
 
 1. copy_vs_view
 2. broadcasting
+3. indexing
